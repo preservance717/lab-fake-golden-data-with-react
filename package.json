@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/preservance717/lab-fake-golden-data-with-react/issues"
   },
-  "homepage": "https://github.com/preservance717/lab-fake-golden-data-with-react#readme"
+  "homepage": "https://github.com/preservance717/lab-fake-golden-data-with-react#readme",
+  "devDependencies": {
+    "nodemon": "^1.10.0"
+  }
 }
